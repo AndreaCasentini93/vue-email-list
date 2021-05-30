@@ -9,6 +9,16 @@ body {
     font-family: 'Mate SC', serif;
 }
 
+h1 {
+    padding: 30px;
+    border-radius: 10px;
+    margin: auto;
+    font-size: 35px;
+    color: #194070;
+    background-color: #ffffffbe;
+    box-shadow: inset 0px 0px 10px #194070;
+}
+
 ul {
     padding: 30px;
     border-radius: 10px;
